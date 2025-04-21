@@ -10,19 +10,23 @@ The content here will evolve as I dive into different technologies, frameworks, 
 
 ## 📑 This Repo Currently Contains:
 
-### 01 - Basics
+### 01 - 🔑 Fundamentals Programming
+- [ ] What is Programming?
+- [ ] Algorithm
+
+### 02 - 👨🏻‍💻 Basics Tech
 - [ ] go
 
-### 02 - Libraries
+### 03 - 📚 Libraries
 - none
 
-### 03 - Front-end Tech
+### 04 - 💻 Front-end Tech
 - none
 
-### 04 - Back-end Tech
+### 05 - ⚙️ Back-end Tech
 - none
 
-### 99 - Final Projects
+### 99 - 💎 Final Projects
 
 ---
 
