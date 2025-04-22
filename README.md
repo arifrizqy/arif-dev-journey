@@ -2,42 +2,48 @@
 
 👋 Hey there!
 
-This repository serves as a documentation of my journey into the world of programming. I use this space to track my learning process, share my coding projects, and reflect on the skills I acquire over time.
+This repository is a personal log of my journey into the world of programming. It’s where I track what I’m learning, document small experiments, and build up my skills — one step at a time.
 
-The content here will evolve as I dive into different technologies, frameworks, and tools. Whether it's frontend, backend, or full-stack development, this repo will contain various projects and notes as I explore and grow as a programmer.
+As I explore different areas of development, from frontend to backend (and everything in between), this repo will grow to include notes, hands-on projects, and reflections on my progress. It’s an evolving space — both a journal and a learning playground.
 
 ---
 
-## 📑 This Repo Currently Contains:
+## 📁 What’s Inside
 
-### 01 - 🔑 Fundamentals Programming
+### 01 - 🔑 Programming Fundamentals
 - [ ] What is Programming?
-- [ ] Algorithm
+- [ ] Introduction to Algorithms
 
-### 02 - 👨🏻‍💻 Basics Tech
-- [ ] go
+### 02 - 👨🏻‍💻 Core Tech
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaSript
+- [ ] Golang
 
-### 03 - 📚 Libraries
-- none
+### 03 - 📚 Libraries & Tools
+- [ ] Vite (Coming Soon)
 
-### 04 - 💻 Front-end Tech
-- none
+### 04 - 💻 Frontend Development
+- [ ] Vue.js (Coming Soon)
 
-### 05 - ⚙️ Back-end Tech
-- none
+### 05 - ⚙️ Backend Development
+- [ ] Backend/Server-side with Go (TBD)
 
 ### 99 - 💎 Final Projects
+- [ ] Portfolio Projects (To be added later)
 
 ---
 
 ## 🔗 Link
 
-- See my full roadmap at [📌 arif's dev journey: roadmap.md](./00-roadmap.md).
-- Check out my portfolio at [🙅 not available yet](https://github.com/arifrizqy).
+- 📌 [Learning Roadmap](./00-roadmap.md) — an outline of where I’m heading.
+- 🙅 [Portfolio Website](https://github.com/arifrizqy) — not available yet.
 
 ---
 
 ## ✍️ Notes
 
-- All small projects and study notes are stored in individual folders.
-- Portfolio projects will be saved in the `final-projects/` folder later.
+- All practice files, study notes, and mini-projects are stored in their respective folders.
+- Final/portfolio-ready projects will be kept in the `final-projects/` directory once completed.
+
+Thanks for stopping by! Feel free to explore — or follow along if you're on a dev journey too.
